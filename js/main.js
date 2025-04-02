@@ -17,7 +17,9 @@ const params = {
 
 const assets = [
     'Samba Dancing',
-    'morph_test'
+    'morph_test','Sword And Shield Attack',
+    'Kettlebell Swing','Short Left Side Step',
+    'Joyful Jump','Shoved Reaction With Spin'
 ];
 
 init();
